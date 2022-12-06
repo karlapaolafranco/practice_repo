@@ -13,3 +13,5 @@ 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
 
 
 making a new addition
+
+well i am trying to understand how to push and pull files 
